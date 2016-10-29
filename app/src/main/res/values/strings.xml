@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LocationBasedNotificationApp</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_update">START LOCATION</string>
+    <string name="btn_stop_location_update">STOP LOCATION UPDATES</string>
+
+
+
+
+
+</resources>
